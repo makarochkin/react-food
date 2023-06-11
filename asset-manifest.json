@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/makarochkin.github.io/react-food/static/css/main.f44d9742.css",
+    "main.js": "/makarochkin.github.io/react-food/static/js/main.e969b0df.js",
+    "index.html": "/makarochkin.github.io/react-food/index.html",
+    "main.f44d9742.css.map": "/makarochkin.github.io/react-food/static/css/main.f44d9742.css.map",
+    "main.e969b0df.js.map": "/makarochkin.github.io/react-food/static/js/main.e969b0df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f44d9742.css",
+    "static/js/main.e969b0df.js"
+  ]
+}
