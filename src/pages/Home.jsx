@@ -1,8 +1,5 @@
 import { useState, useEffect } from "react";
-import {
-    useLocation,
-    useHistory,
-} from "react-router-dom/cjs/react-router-dom.min";
+import { useLocation, useHistory } from "react-router-dom";
 import { getAllCategories } from "../api";
 import { SimplePreloader } from "./Preloader";
 import { CategoryList } from "./CategoryList";
