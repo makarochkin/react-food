@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom/cjs/react-router-dom";
+import { Link } from "react-router-dom";
 
 function Header() {
     return (
@@ -23,7 +23,7 @@ function Header() {
                     </li>
                     <li>
                         <a
-                            href="https://github.com/makarochkin/react-shop"
+                            href="https://github.com/makarochkin/react-food"
                             target="_blank"
                             rel="noreferrer"
                         >
