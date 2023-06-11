@@ -3,6 +3,8 @@ import { useParams, useHistory } from "react-router-dom";
 import { getMealById } from "../api";
 import { SimplePreloader } from "./Preloader";
 
+import React from "react";
+
 function Recipe() {
     const { id } = useParams();
     const [recipe, setMeal] = useState({});

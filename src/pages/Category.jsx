@@ -1,3 +1,4 @@
+import React from "react";
 import { useParams, useHistory } from "react-router-dom";
 import { getFilteredCategory } from "../api";
 import { useState, useEffect } from "react";

@@ -1,3 +1,5 @@
+import React from "react";
+
 import { Link } from "react-router-dom";
 function MealItem(props) {
     const { idMeal, strMeal, strMealThumb } = props;
