@@ -25,7 +25,6 @@ function Home() {
             search: `?search=${str}`,
         });
     };
-    console.log(search);
     useEffect(() => {
         getAllCategories().then((data) => {
             setCatalog(data.categories);
